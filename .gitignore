@@ -135,3 +135,5 @@ cifar.tar.gz
 # processed cifar images
 train/
 test/
+
+predictor-lambda/package
